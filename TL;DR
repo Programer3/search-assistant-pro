@@ -1,0 +1,30 @@
+This is a firefox browser extension which displays results side by side on any search engine page whenever users searches something on the web from LLM like GPT3.5 by openai using users api key provided by themselves
+
+Disclaimer
+This extension is an independent project, has no relationship, and is not affiliated to Google or Gemini in any way. This extension is primarily for personal use, a personal project if you will.
+
+eg : <https://github.com/GoogleChrome/chrome-extensions-samples/tree/28d0a71f76f542ba59bd5652e7762adef31a1535/functional-samples/tutorial.hello-world>
+
+<https://github.com/tudoujunha/gemini-google-extension/blob/main/src/manifest.json#L227>
+
+<https://chromewebstore.google.com/detail/sider-chatgpt-sidebar-+-g/difoiogjjojoaoomphldepapgpbgkhkb>
+
+reference : <https://github.com/mlc-ai/web-llm>
+
+<https://github.com/khzg/ChatGPT>
+
+<https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world>
+
+<https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions>
+
+<https://developer.chrome.com/docs/extensions/reference/manifest>
+
+<https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json>
+
+<https://www.youtube.com/watch?v=0n809nd4Zu4&ab_channel=freeCodeCamp.org>
+
+<https://www.youtube.com/watch?v=GGi7Brsf7js&ab_channel=TrainToCode>
+
+<https://youtu.be/6ciLZ-7NX0U>
+
+<https://www.youtube.com/watch?v=yRFKa9Z-ESg&pp=ygUeZmlyZWZveCBleHRlbnNpb24gZGV2ZWxvcG1lbnQg>

@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "search-assistant-pro",
+    "description": "displays search results from various LLM like GPT-3.5 and Gemini, side-by-side to the search engine result page",
+    "version": "0.0.1",
+    "action": {
+        "default_popup": "app.html",
+        "default_icon": "images/hi-sample-icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "js": [
+        "content-script.js"
+    ],
+    "css": [
+        "content-script.css"
+    ]
+}
